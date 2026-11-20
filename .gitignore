@@ -1,0 +1,6 @@
+cache/
+libraries/
+versions/
+logs/
+*.jar
+!plugins/*.jar
