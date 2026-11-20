@@ -1,0 +1,7 @@
+&3&m--------------------------------------------------
+  &b&l▶ &fChào mừng &e&l{PLAYER} &fđã quay trở lại!
+
+  &7▪ &fTrạng thái: &aOnline &7(&e{ONLINE}&7/&c20&7)
+  &7▪ &fThời gian: &b{TIME}
+  &7▪ &fHỗ trợ: Gõ &b/help &fđể xem câu lệnh
+&3&m--------------------------------------------------

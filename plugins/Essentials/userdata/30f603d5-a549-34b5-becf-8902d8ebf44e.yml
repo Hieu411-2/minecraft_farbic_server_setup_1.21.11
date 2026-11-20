@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: true
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1794135234464
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1794135373218
+  login: 1794134823873
+money: '0'
+last-account-name: huahieu
+logoutlocation:
+  world: 63937057-68e4-4bc1-96f4-6edcb77562d7
+  world-name: world
+  x: 481.73329773538876
+  y: 68.78261590512203
+  z: -443.46025184784185
+  yaw: -88.8250732421875
+  pitch: 33.60003662109375
+nickname: §fhuahieu
+lastlocation:
+  world: 63937057-68e4-4bc1-96f4-6edcb77562d7
+  world-name: world
+  x: 467.4034986070279
+  y: 66.49390748022948
+  z: -439.78476297008285
+  yaw: 42.125244140625
+  pitch: 15.750032424926758

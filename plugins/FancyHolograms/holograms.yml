@@ -1,0 +1,31 @@
+version: 2 # DO NOT CHANGE
+holograms:
+  spawn_welcome:
+    type: TEXT
+    location:
+      world: world
+      x: 482.0
+      y: 66.5
+      z: -446.5
+      yaw: -90.47472
+      pitch: -8.700018
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    scale_x: 1.2
+    scale_y: 1.2
+    scale_z: 1.2
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - '&e&l★ &b&lCHÀO MỪNG BẠN ĐẾN VỚI SERVER &e&l★'
+    - '&7---------------------------------'
+    - '&fChúc bạn có những giây phút trải nghiệm vui vẻ!'
+    - '&dChúc bạn chơi game vui vẻ!'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1

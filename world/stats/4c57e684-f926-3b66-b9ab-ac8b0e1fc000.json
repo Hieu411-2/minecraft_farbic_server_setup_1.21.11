@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "minecraft:killed_by": {
+      "minecraft:player": 2
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 2,
+      "minecraft:sand": 1,
+      "minecraft:oak_leaves": 2,
+      "minecraft:leaf_litter": 31,
+      "minecraft:jungle_log": 30
+    },
+    "minecraft:custom": {
+      "minecraft:damage_resisted": 128,
+      "minecraft:damage_blocked_by_shield": 2110,
+      "minecraft:time_since_rest": 4957,
+      "minecraft:walk_one_cm": 74194,
+      "minecraft:leave_game": 2,
+      "minecraft:walk_under_water_one_cm": 1496,
+      "minecraft:damage_taken": 1034,
+      "minecraft:damage_dealt": 680,
+      "minecraft:play_time": 16262,
+      "minecraft:damage_absorbed": 375,
+      "minecraft:jump": 303,
+      "minecraft:time_since_death": 4923,
+      "minecraft:damage_dealt_absorbed": 558,
+      "minecraft:sprint_one_cm": 40145,
+      "minecraft:fall_one_cm": 3864,
+      "minecraft:swim_one_cm": 4088,
+      "minecraft:total_world_time": 16262,
+      "minecraft:fly_one_cm": 65687,
+      "minecraft:walk_on_water_one_cm": 3401,
+      "minecraft:crouch_one_cm": 841,
+      "minecraft:sneak_time": 221,
+      "minecraft:deaths": 2,
+      "minecraft:player_kills": 2
+    },
+    "minecraft:used": {
+      "minecraft:diamond_block": 1,
+      "minecraft:sand": 2,
+      "minecraft:leaf_litter": 44,
+      "minecraft:diamond_axe": 24,
+      "minecraft:shield": 20,
+      "minecraft:cobweb": 7,
+      "minecraft:enchanted_golden_apple": 3,
+      "minecraft:jungle_log": 30,
+      "minecraft:netherite_axe": 39,
+      "minecraft:netherite_spear": 2,
+      "minecraft:mace": 6
+    },
+    "minecraft:picked_up": {
+      "minecraft:netherite_axe": 1,
+      "minecraft:leaf_litter": 79,
+      "minecraft:netherite_spear": 2,
+      "minecraft:sand": 1,
+      "minecraft:jungle_log": 30
+    }
+  },
+  "DataVersion": 4671
+}

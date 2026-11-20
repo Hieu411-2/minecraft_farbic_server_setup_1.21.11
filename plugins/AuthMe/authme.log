@@ -1,0 +1,357 @@
+[11-08 01:18:46]: [INFO] Created column 'regdate' and set the current timestamp, 1794075526265, to all 0 rows
+[11-08 01:18:46]: [INFO] SQLite Setup finished
+[11-08 01:18:46]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 01:18:46]: [INFO] Hooked successfully into Essentials
+[11-08 01:18:46]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 01:18:46]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 01:18:46]: [INFO] AuthMe 6.0.1 build n.2770 successfully enabled!
+[11-08 01:18:46]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[11-08 01:18:46]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[11-08 01:18:46]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[11-08 01:18:46]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[11-08 01:18:46]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:338)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:257)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:211)
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19)
+	at com.maxmind.db.Reader.<init>(Reader.java:119)
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:106)
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:238)
+	at AuthMe-6.0.1-Paper.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:183)
+	at AuthMe-6.0.1-Paper.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+[11-08 01:19:20]: [FINE] huahieu registered 127.0.0.1
+[11-08 01:19:20]: [FINE] huahieu logged in 127.0.0.1
+[11-08 01:20:05]: [FINE] huahieu logged in 127.0.0.1
+[11-08 01:22:38]: [INFO] SQLite Setup finished
+[11-08 01:22:38]: [INFO] Unhooked from Permissions!
+[11-08 01:22:38]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 01:22:38]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 01:22:38]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 01:23:33]: [FINE] huahieu logged in 127.0.0.1
+[11-08 01:28:31]: [FINE] huahieu logged in 127.0.0.1
+[11-08 01:28:46]: [INFO] SQLite Setup finished
+[11-08 01:28:46]: [INFO] Unhooked from Permissions!
+[11-08 01:28:46]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 01:28:46]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 01:28:46]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 01:28:58]: [FINE] huahieu logged in 127.0.0.1
+[11-08 01:37:26]: [INFO] SQLite Setup finished
+[11-08 01:37:26]: [INFO] Unhooked from Permissions!
+[11-08 01:37:26]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 01:37:26]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 01:37:26]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 01:39:37]: [FINE] huahieu logged in 127.0.0.1
+[11-08 01:41:19]: [INFO] SQLite Setup finished
+[11-08 01:41:19]: [INFO] Unhooked from Permissions!
+[11-08 01:41:19]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 01:41:19]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 01:41:19]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 01:43:03]: [INFO] CONSOLE changed password of huahieu
+[11-08 01:43:09]: [FINE] huahieu logged in 127.0.0.1
+[11-08 01:45:59]: [INFO] AuthMe 6.0.1-b2770 disabled!
+[11-08 01:46:20]: [INFO] SQLite Setup finished
+[11-08 01:46:20]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 01:46:20]: [INFO] Hooked successfully into Essentials
+[11-08 01:46:20]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 01:46:20]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 01:46:20]: [INFO] AuthMe 6.0.1 build n.2770 successfully enabled!
+[11-08 01:46:20]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[11-08 01:46:20]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[11-08 01:46:20]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[11-08 01:46:20]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[11-08 01:46:20]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:338)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:257)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:211)
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19)
+	at com.maxmind.db.Reader.<init>(Reader.java:119)
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:106)
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:238)
+	at AuthMe-6.0.1-Paper.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:183)
+	at AuthMe-6.0.1-Paper.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+[11-08 01:46:30]: [FINE] huahieu logged in 127.0.0.1
+[11-08 01:49:52]: [FINE] huahieu logged in 127.0.0.1
+[11-08 01:54:34]: [INFO] SQLite Setup finished
+[11-08 01:54:34]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 01:54:34]: [INFO] Hooked successfully into Essentials
+[11-08 01:54:34]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 01:54:35]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 01:54:35]: [INFO] AuthMe 6.0.1 build n.2770 successfully enabled!
+[11-08 01:54:35]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[11-08 01:54:35]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[11-08 01:54:35]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[11-08 01:54:35]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[11-08 01:54:35]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:338)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:257)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:211)
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19)
+	at com.maxmind.db.Reader.<init>(Reader.java:119)
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:106)
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:238)
+	at AuthMe-6.0.1-Paper.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:183)
+	at AuthMe-6.0.1-Paper.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+[11-08 01:54:44]: [FINE] huahieu logged in 127.0.0.1
+[11-08 01:55:28]: [FINE] huahieu logged in 127.0.0.1
+[11-08 01:57:34]: [FINE] huahieu logged in 127.0.0.1
+[11-08 01:58:41]: [FINE] huahieu logged in 127.0.0.1
+[11-08 02:01:14]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 02:01:14]: [INFO] SQLite Setup finished
+[11-08 02:01:14]: [INFO] Unhooked from Permissions!
+[11-08 02:01:14]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 02:01:14]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 02:01:24]: [FINE] huahieu logged in 127.0.0.1
+[11-08 02:01:38]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 02:01:38]: [INFO] SQLite Setup finished
+[11-08 02:01:38]: [INFO] Unhooked from Permissions!
+[11-08 02:01:38]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 02:01:38]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 02:01:45]: [FINE] huahieu logged in 127.0.0.1
+[11-08 02:03:13]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 02:03:13]: [INFO] SQLite Setup finished
+[11-08 02:03:13]: [INFO] Unhooked from Permissions!
+[11-08 02:03:13]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 02:03:13]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 02:03:18]: [FINE] huahieu logged in 127.0.0.1
+[11-08 02:03:44]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 02:03:44]: [INFO] SQLite Setup finished
+[11-08 02:03:44]: [INFO] Unhooked from Permissions!
+[11-08 02:03:44]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 02:03:44]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 02:03:51]: [FINE] huahieu logged in 127.0.0.1
+[11-08 02:07:05]: [INFO] AuthMe 6.0.1-b2770 disabled!
+[11-08 15:58:57]: [INFO] SQLite Setup finished
+[11-08 15:58:58]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 15:58:58]: [INFO] Hooked successfully into Essentials
+[11-08 15:58:58]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 15:58:58]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 15:58:58]: [INFO] AuthMe 6.0.1 build n.2770 successfully enabled!
+[11-08 15:58:58]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[11-08 15:58:58]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[11-08 15:58:58]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[11-08 15:58:58]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[11-08 15:58:58]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:338)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:257)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:211)
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19)
+	at com.maxmind.db.Reader.<init>(Reader.java:119)
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:106)
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:238)
+	at AuthMe-6.0.1-Paper.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:183)
+	at AuthMe-6.0.1-Paper.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+[11-08 15:59:10]: [FINE] huahieu logged in 127.0.0.1
+[11-08 16:00:31]: [INFO] Unhooked from Permissions!
+[11-08 16:00:31]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 16:00:31]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 16:00:31]: [INFO] SQLite Setup finished
+[11-08 16:00:31]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 16:00:37]: [FINE] huahieu logged in 127.0.0.1
+[11-08 16:01:00]: [INFO] Added 1 missing keys to your messages_xx.yml file: [login.success]
+[11-08 16:01:00]: [INFO] Unhooked from Permissions!
+[11-08 16:01:00]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 16:01:00]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 16:01:00]: [INFO] SQLite Setup finished
+[11-08 16:01:00]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 16:01:06]: [FINE] huahieu logged in 127.0.0.1
+[11-08 16:01:23]: [INFO] Unhooked from Permissions!
+[11-08 16:01:23]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 16:01:23]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 16:01:23]: [INFO] SQLite Setup finished
+[11-08 16:01:23]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 16:01:34]: [FINE] huahieu logged in 127.0.0.1
+[11-08 16:02:11]: [FINE] huahieu logged in 127.0.0.1
+[11-08 16:02:27]: [INFO] Unhooked from Permissions!
+[11-08 16:02:27]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 16:02:27]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 16:02:27]: [INFO] SQLite Setup finished
+[11-08 16:02:27]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 16:02:34]: [FINE] huahieu logged in 127.0.0.1
+[11-08 16:02:52]: [INFO] Unhooked from Permissions!
+[11-08 16:02:52]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 16:02:52]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 16:02:52]: [INFO] SQLite Setup finished
+[11-08 16:02:52]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 16:02:59]: [FINE] huahieu logged in 127.0.0.1
+[11-08 16:03:20]: [INFO] Added 1 missing keys to your messages_xx.yml file: [login.success]
+[11-08 16:03:20]: [INFO] Unhooked from Permissions!
+[11-08 16:03:20]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 16:03:20]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 16:03:20]: [INFO] SQLite Setup finished
+[11-08 16:03:20]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 16:03:27]: [FINE] huahieu logged in 127.0.0.1
+[11-08 16:03:53]: [INFO] Unhooked from Permissions!
+[11-08 16:03:53]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 16:03:53]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 16:03:53]: [INFO] SQLite Setup finished
+[11-08 16:03:53]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 16:03:59]: [FINE] huahieu logged in 127.0.0.1
+[11-08 16:04:36]: [INFO] Unhooked from Permissions!
+[11-08 16:04:36]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 16:04:36]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 16:04:36]: [INFO] SQLite Setup finished
+[11-08 16:04:36]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 16:04:41]: [FINE] huahieu logged in 127.0.0.1
+[11-08 16:05:12]: [INFO] Unhooked from Permissions!
+[11-08 16:05:12]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 16:05:12]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 16:05:12]: [INFO] SQLite Setup finished
+[11-08 16:05:12]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 16:05:18]: [FINE] huahieu logged in 127.0.0.1
+[11-08 16:10:02]: [INFO] AuthMe 6.0.1-b2770 disabled!
+[11-08 16:10:19]: [INFO] SQLite Setup finished
+[11-08 16:10:19]: [INFO] No supported permissions system found! Permissions are disabled!
+[11-08 16:10:19]: [INFO] Hooked successfully into Essentials
+[11-08 16:10:19]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 16:10:19]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 16:10:19]: [INFO] AuthMe 6.0.1 build n.2770 successfully enabled!
+[11-08 16:10:19]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[11-08 16:10:19]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[11-08 16:10:19]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[11-08 16:10:19]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[11-08 16:10:19]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:338)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:257)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:211)
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19)
+	at com.maxmind.db.Reader.<init>(Reader.java:119)
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:106)
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:238)
+	at AuthMe-6.0.1-Paper.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:183)
+	at AuthMe-6.0.1-Paper.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+[11-08 16:11:22]: [FINE] huahieu logged in 127.0.0.1
+[11-08 16:13:56]: [FINE] huahieu logged in 127.0.0.1
+[11-08 16:14:53]: [FINE] huahieu logged in 127.0.0.1
+[11-08 16:38:34]: [FINE] KuroMujou registered 127.63.67.114
+[11-08 16:38:34]: [FINE] KuroMujou logged in 127.63.67.114
+[11-08 16:40:26]: [FINE] KuroMujou logged in 127.63.67.114
+[11-08 16:54:36]: [INFO] AuthMe 6.0.1-b2770 disabled!
+[11-08 17:06:02]: [INFO] SQLite Setup finished
+[11-08 17:06:02]: [INFO] Hooked into LuckPerms!
+[11-08 17:06:02]: [INFO] Hooked successfully into Essentials
+[11-08 17:06:02]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 17:06:02]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 17:06:02]: [INFO] AuthMe 6.0.1 build n.2770 successfully enabled!
+[11-08 17:06:02]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[11-08 17:06:02]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[11-08 17:06:02]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[11-08 17:06:02]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[11-08 17:06:02]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:338)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:257)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:211)
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19)
+	at com.maxmind.db.Reader.<init>(Reader.java:119)
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:106)
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:238)
+	at AuthMe-6.0.1-Paper.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:183)
+	at AuthMe-6.0.1-Paper.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+[11-08 17:07:10]: [FINE] huahieu logged in 127.0.0.1
+[11-08 17:33:41]: [INFO] AuthMe 6.0.1-b2770 disabled!
+[11-08 17:34:03]: [INFO] SQLite Setup finished
+[11-08 17:34:03]: [INFO] Hooked into LuckPerms!
+[11-08 17:34:03]: [INFO] Hooked successfully into Essentials
+[11-08 17:34:03]: [INFO] Essentials spawn file not found: 'C:\Users\PC\OneDrive\Desktop\paper server 2026_1.21.11\plugins\Essentials\spawn.yml'
+[11-08 17:34:03]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 17:34:03]: [INFO] AuthMe 6.0.1 build n.2770 successfully enabled!
+[11-08 17:34:03]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[11-08 17:34:03]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[11-08 17:34:03]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[11-08 17:34:03]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[11-08 17:34:03]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:338)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:257)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:211)
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19)
+	at com.maxmind.db.Reader.<init>(Reader.java:119)
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:106)
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:238)
+	at AuthMe-6.0.1-Paper.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:183)
+	at AuthMe-6.0.1-Paper.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+[11-08 17:34:55]: [FINE] huahieu logged in 127.0.0.1
+[11-08 17:44:39]: [INFO] AuthMe 6.0.1-b2770 disabled!
+[11-08 17:45:02]: [INFO] SQLite Setup finished
+[11-08 17:45:03]: [INFO] Hooked into LuckPerms!
+[11-08 17:45:03]: [INFO] Hooked successfully into Essentials
+[11-08 17:45:03]: [WARN] WARNING! The protectInventory feature requires PacketEvents! Disabling it...
+[11-08 17:45:03]: [INFO] AuthMe 6.0.1 build n.2770 successfully enabled!
+[11-08 17:45:03]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[11-08 17:45:03]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[11-08 17:45:03]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[11-08 17:45:03]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[11-08 17:45:03]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:338)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:257)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:211)
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19)
+	at com.maxmind.db.Reader.<init>(Reader.java:119)
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:106)
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:238)
+	at AuthMe-6.0.1-Paper.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:183)
+	at AuthMe-6.0.1-Paper.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+[11-08 17:47:04]: [FINE] huahieu logged in 127.0.0.1
+[11-08 17:56:22]: [INFO] AuthMe 6.0.1-b2770 disabled!

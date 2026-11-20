@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.63.67.114
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1794130774950
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1794131554330
+  login: 1794130826649
+money: '0'
+last-account-name: KuroMujou
+lastlocation:
+  world: 63937057-68e4-4bc1-96f4-6edcb77562d7
+  world-name: world
+  x: 474.5026749792164
+  y: 74.0
+  z: -393.0608904048611
+  yaw: -18.899982452392578
+  pitch: 15.149984359741211
+logoutlocation:
+  world: 63937057-68e4-4bc1-96f4-6edcb77562d7
+  world-name: world
+  x: 550.4904114463167
+  y: 64.0
+  z: -357.26867483851674
+  yaw: 178.9195556640625
+  pitch: 3.4498767852783203
